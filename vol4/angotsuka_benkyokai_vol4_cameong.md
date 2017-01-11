@@ -1,7 +1,7 @@
 slidenumbers: true
 footer: @cameong
 
-## 暗号通貨勉強会
+## ビットコインとか勉強会
 
 - コマンドラインで色んな暗号通貨を送金してみよう
 
